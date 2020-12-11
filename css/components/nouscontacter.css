@@ -1,0 +1,20 @@
+.nouscontacter i{
+	font-size: 50px;
+	color: #E00400;
+	margin-bottom: 30px;
+}
+
+
+a>i{
+	font-size: 50px;
+	color: #E00400;	
+}
+
+i:hover{
+	color: black;
+}
+
+
+	
+
+
